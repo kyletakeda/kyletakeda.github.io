@@ -1,43 +1,43 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kyle Takeda",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/kyletakeda/kyletakeda.github.io/blob/main/img/profile%20pic.PNG",
+    "email": "takeda8@hawaii.edu",
+    "phone": "916-753-7032",
+    "website": "https://kyletakeda.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical Engineerinng at the University of Hawaii. I expect to graduate in Fall, 2023.",
+    "location": { "address": "2649 Varsity Pl", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "kyletakeda", "url": "http://github.com/kyletakeda" },
+      { "network": "linkedin", "username": "Kyle Takeda", "url": "http://linkedin.com/in/kyle-takeda-42884721b/" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Linux Cybersecurity" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Simulations" },
+    { "name": "Web Development" },
+    { "name": "Robotics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Javascript", "Assembly", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Ubuntu", "Git/GitHub", "g++" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Fall, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2017-09-01",
       "endDate": "Present",
       "courses": [
       ]
