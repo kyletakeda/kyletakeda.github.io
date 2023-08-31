@@ -6,7 +6,7 @@ title: "My Thoughts on JavaScript"
 date: 2023
 published: true
 labels:
-  - Engineering
+  - JavaScript
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
