@@ -3,13 +3,13 @@ layout: essay
 type: essay
 title: "My Thoughts on JavaScript"
 # All dates must be YYYY-MM-DD format!
-date: 2023
+date: 2023-08-29
 published: true
 labels:
   - JavaScript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/javascript.jpg">
 
 *My Thoughts on JavaScript*
 
