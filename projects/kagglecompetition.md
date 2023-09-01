@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/kaggle.jpg
+image: img/lasso.jpg
 title: "Kaggle Competition"
 date: 2023
 published: true
