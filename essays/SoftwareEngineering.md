@@ -6,7 +6,7 @@ title: "Interests in Software Engineering"
 date: 2023-08-30
 published: true
 labels:
-  - Software EngineeringIn the future, I'm eager to learn important software engineering skills. I want to become proficient in languages like Python, Java, and C++ to create strong applications. Mastering data structures and algorithms is a priority for effective problem-solving. I'm also excited about designing scalable software systems and improving my debugging abilities.
+  - Software Engineering
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/machinelearning.jpg">
