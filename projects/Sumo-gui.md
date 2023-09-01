@@ -8,7 +8,7 @@ published: true
 labels:
   - Sumo-gui
   - Matlab
-  -python
+  - python
 summary: "A simulation of Dole Street traffic for project ENGR 296/396."
 ---
 
@@ -21,4 +21,4 @@ After making the traffic pattern, we created a python code that can parse data f
 This makes finding condition number easier so you do not have to hard code locations into program.
 Finally, we will find the logarithm of the determinant of matrix and need to keep power consistent with the grouping of two cars. This makes the connections between the transmitter and receiver ideal and effecient communcation between them.
 
-Source: <a href="https://drive.google.com/drive/u/0/recent"><i class="large github icon "></i>python-script</a>
+Source: <a href="main.py"><i class="large github icon "></i>python-script</a>
