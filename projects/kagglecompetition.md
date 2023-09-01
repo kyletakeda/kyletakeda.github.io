@@ -8,7 +8,7 @@ published: true
 labels:
   - python
   - AI
-summary: "A submission for an AI competition on Kaggle. My group used the lasso technique to find people who are most likely to have Parkinson's disease given clinical data."
+summary: "A submission for an AI competition on Kaggle."
 ---
 
 <img class="img-fluid" src="../img/kaggle.jpg">
