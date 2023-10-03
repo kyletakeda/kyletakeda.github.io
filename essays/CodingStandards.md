@@ -4,7 +4,7 @@ type: essay
 title: "The Significance of Coding Standards in Software Development"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-20
-published: false
+published: true
 labels:
   - Engineering
 ---
