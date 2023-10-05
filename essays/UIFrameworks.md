@@ -9,7 +9,7 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/bootstrap-social-logo.pngg">
+<img width="200px" class="rounded float-start pe-4" src="../img/bootstrap-social-logo.png">
 
 ## The Complexity and Value of UI Frameworks
 
