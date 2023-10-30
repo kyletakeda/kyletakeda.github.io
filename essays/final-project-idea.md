@@ -23,11 +23,11 @@ The site will have categories and filters to help sort through items of interest
 Admins have control to site to update inventory and let users know what is in stock and future releases.
 Some possible mockup pages include:
 
-Landing page
-Home page
-Admin home page
-Mens clothing page
-Womens clothing page
+Landing page, 
+Home page, 
+Admin home page, 
+Mens clothing page, 
+Womens clothing page, 
 kids clothing page
 
 ## Use Cast Ideas
