@@ -3,12 +3,14 @@ layout: essay
 type: essay
 title: "Final Project Idea"
 date: 2023-10-30
+published: true
 labels:
   - Software Engineering
   - Meteor
 ---
 
 ## Project Name: UH Store
+group: Kyle and Mark
 
 ## Overview
 The problem: Finding UH Manoa clothing for fans and students can be difficult to find. You have to use website, which is hard to navigate, or go to student store that has low inventory.
