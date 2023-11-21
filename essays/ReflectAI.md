@@ -25,7 +25,7 @@ Coding example e.g. “give an example of using Underscore .pluck”: I have use
 Explaining code: I usually don't need AI to exlain code as there are plenty of resources online that do it.
 Writing code: I will use AI to write code depending if I can independently write it myself or not.
 Documenting code: I will use AI to document code as it makes it easier to understand.
-Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”: I have used AI for this sometimes to make code run and look better.
+Quality assurance e.g. “What’s wrong with this code <code here> ” or “Fix the ESLint errors in <code here> ”: I have used AI for this sometimes to make code run and look better.
 Other uses in ICS 314 not listed: I can't think of any.
 
 ## III. Impact on Learning and Understanding
