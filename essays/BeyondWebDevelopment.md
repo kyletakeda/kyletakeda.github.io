@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Beyond Web Development: A Comprehensive Dive into Software Engineering Fundamentals"
-date: 2023-10-30
+date: 2023-12-11
 published: true
 labels:
   - Software Engineering
