@@ -1,0 +1,53 @@
+{
+  "basics": {
+    "name": "Kyle Takeda",
+    "label": "Student",
+    "picture": "https://github.com/kyletakeda.png",
+    "email": "takeda8@hawaii.edu",
+    "phone": "916-753-7032",
+    "website": "https://kyletakeda.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical Engineerinng at the University of Hawaii. I expect to graduate in Fall, 2023.",
+    "location": { "address": "2649 Varsity Pl", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "kyletakeda", "url": "http://github.com/kyletakeda" },
+      { "network": "linkedin", "username": "Kyle Takeda", "url": "http://linkedin.com/in/kyle-takeda-42884721b/" },
+    ]
+  },
+  "interests": [
+    { "name": "Linux Cybersecurity" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Simulations" },
+    { "name": "Web Development" },
+    { "name": "Robotics" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Javascript", "Assembly", "Python" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Ubuntu", "Git/GitHub", "g++" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Fall, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2017-09-01",
+      "endDate": "2023-12-16",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "University of Hawaii",
+      "position": "Research Assistant",
+      "startDate": "2022",
+      "endDate": "2022",
+      "summary": "Conduct and present research on machine learning techniques to find the shortest path between multiple vehicles on the road.",
+    }
+  ],
+ }
