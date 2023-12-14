@@ -7,6 +7,7 @@ published: true
 labels:
   - Software Engineering
   - Meteor
+  - JavaScript
 ---
 <img width="200px" class="rounded float-start pe-4" src="../img/designpatterns.png">
 ## Artistry of Design Patterns in Software Engineering
