@@ -7,6 +7,7 @@ date: 2023-08-29
 published: true
 labels:
   - JavaScript
+  - Software Engineering
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/javascript.jpg">
