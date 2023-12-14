@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/meteor-logo.png
 title: "UH Connect"
-date: 2022
+date: 2023
 published: true
 labels:
   - JavaScript
