@@ -24,5 +24,5 @@ The clinical data on Parkinson's disease progression served as a challenging and
 This project not only enriched our understanding of machine learning techniques but also underscored the practical implications of data-driven decision-making, especially in the context of healthcare. The competition setting added an element of excitement and urgency, mirroring the real-world scenarios where deploying effective machine learning models is time-sensitive and impactful.
 
 ## GitHub Link
-For those interested in the code and inforation about the project, a link to the github page is provided below.
+For those interested in the code and inforation about the project, a link to the github page is provided.
 Source: <a href="https://github.com/cody1444/EE445-Kaggle-Competiton/tree/main"><i class="large github icon "></i>EE445 kaggle competition</a>
