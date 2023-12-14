@@ -7,6 +7,8 @@ date: 2023-10-04
 published: true
 labels:
   - Engineering
+  - JavaScript
+  - CSS
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/bootstrap-social-logo.png">
