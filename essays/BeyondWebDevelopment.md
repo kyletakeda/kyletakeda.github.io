@@ -8,6 +8,7 @@ labels:
   - Software Engineering
   - Meteor
 ---
+<img width="200px" class="rounded float-start pe-4" src="../img/opensource.jpg">
 
 ## Beyond Web Development: A Comprehensive Dive into Software Engineering Fundamentals
 
