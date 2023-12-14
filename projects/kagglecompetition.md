@@ -8,6 +8,7 @@ published: true
 labels:
   - python
   - AI
+  - Machine Learning
 summary: "A submission for an AI competition on Kaggle."
 ---
 
