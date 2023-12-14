@@ -8,7 +8,7 @@ labels:
   - Software Engineering
   - Meteor
 ---
-
+<img width="200px" class="rounded float-start pe-4" src="../img/designpatterns.png">
 ## Artistry of Design Patterns in Software Engineering
 
 Design patterns are the hidden brushstrokes of masterful software engineering, seamlessly weaving elegance and efficiency into the fabric of code. They are recurring solutions to common design problems, offering a blueprint for structuring code that promotes flexibility, scalability, and maintainability. The application of design patterns is akin to an artist selecting the right brushstroke to bring a canvas to life, transforming code into a work of art.
