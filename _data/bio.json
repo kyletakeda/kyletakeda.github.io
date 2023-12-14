@@ -41,4 +41,13 @@
       ]
     }
   ],
+  "work": [
+    {
+      "company": "University of Hawaii",
+      "position": "Research Assistant",
+      "startDate": "2022",
+      "endDate": "2022",
+      "summary": "Conduct and present research on machine learning techniques to find the shortest path between multiple vehicles on the road.",
+    }
+  ],
  }
