@@ -11,7 +11,6 @@ labels:
   - Group Project
 summary: "UH Connect is a website that links UH studends and companies with each other."
 ---
-## UH CONNECT Website
 
 <img class="img-fluid" src="../img/landingpage.png">
 
